@@ -11,5 +11,14 @@ The library allows you to track the unique user in the application.
 ## Installation
 
 ```bash
-composer require xepozz/unique-id
+composer req xepozz/unique-id
 ```
+
+## Looking for more modules?
+
+- [Request ID](https://github.com/xepozz/request-id) - A simple library to generate both unique request and response IDs for tracing purposes.
+- [AB](https://github.com/xepozz/ab) - A simple library to enable A/B testing based on a set of rules.
+- [Feature Flag](https://github.com/xepozz/feature-flag) - A simple library to enable/disable features based on a set of rules.
+- [Shortcut](https://github.com/xepozz/shortcut) - Sets of helper functions for rapid development of Yii 3 applications.
+
+ 

@@ -1,6 +1,19 @@
 {
   "name": "xepozz/unique-id",
   "description": "Marking users with unique identifiers to keep the information for the further processing.",
+  "keywords": [
+    "yii",
+    "yii3",
+    "yii-framework",
+    "yii-extension",
+    "yii-package",
+    "id",
+    "unique-id",
+    "user",
+    "user-identification",
+    "user-tracking",
+    "user-tracing"
+  ],
   "minimum-stability": "stable",
   "require": {
     "php": "^8.1",
